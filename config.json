@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productctringify",
+        "uuid": 30682234,
+        "checksum": "nb3arc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
